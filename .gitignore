@@ -26,3 +26,10 @@ replay_pid*
 #Generated Folders (Libraries, etc.)
 /.gradle/
 /.idea/
+/build/
+/common/.gradle/
+/common/build/
+/fabric/.gradle/
+/fabric/build/
+/forge/.gradle/
+/forge/build/

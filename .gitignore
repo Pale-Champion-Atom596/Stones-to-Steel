@@ -23,13 +23,15 @@
 hs_err_pid*
 replay_pid*
 
-#Generated Folders (Libraries, etc.)
+#Generated Folders (Libraries, Builds, Run Folders etc.)
 /.gradle/
 /.idea/
-/build/
 /common/.gradle/
 /common/build/
+/common/run/
 /fabric/.gradle/
 /fabric/build/
+/fabric/run/
 /forge/.gradle/
 /forge/build/
+/forge/run/

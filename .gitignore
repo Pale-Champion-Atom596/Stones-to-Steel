@@ -26,6 +26,7 @@ replay_pid*
 #Generated Folders (Libraries, Builds, Run Folders etc.)
 /.gradle/
 /.idea/
+/build/
 /common/.gradle/
 /common/build/
 /common/run/

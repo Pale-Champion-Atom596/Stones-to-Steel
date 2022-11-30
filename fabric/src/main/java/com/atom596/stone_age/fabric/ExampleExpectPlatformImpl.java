@@ -1,6 +1,6 @@
-package net.examplemod.fabric;
+package com.atom596.stone_age.fabric;
 
-import net.examplemod.ExampleExpectPlatform;
+import com.atom596.stone_age.ExampleExpectPlatform;
 import net.fabricmc.loader.api.FabricLoader;
 
 import java.nio.file.Path;

@@ -4,10 +4,10 @@ loaderVersion = "[43,)"
 license = "Insert License Here"
 
 [[mods]]
-modId = "examplemod"
+modId = "stone_age"
 version = "${version}"
-displayName = "Example Mod"
-authors = "Me!"
+displayName = "Stones to Steel [Forge]"
+authors = "Atom596"
 description = '''
 This is an example description! Tell everyone what your mod is about!
 '''

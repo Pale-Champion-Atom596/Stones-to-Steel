@@ -1,5 +1,6 @@
 package com.atom596.stone_age;
 
+import com.atom596.stone_age.nbb.HarvestBlockHandler;
 import com.google.common.base.Suppliers;
 import dev.architectury.registry.CreativeTabRegistry;
 import dev.architectury.registry.registries.DeferredRegister;
@@ -27,6 +28,7 @@ public class StoneAge {
     
     public static void init() {
         ITEMS.register();
+        HarvestBlockHandler.setup();
         
         System.out.println(ExampleExpectPlatform.getConfigDirectory().toAbsolutePath().normalize().toString());
     }

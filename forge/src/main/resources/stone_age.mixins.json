@@ -1,9 +1,8 @@
 {
   "required": true,
-  "package": "net.examplemod.mixin",
+  "package": "com.atom596.stone_age.mixin.forge",
   "compatibilityLevel": "JAVA_17",
   "client": [
-    "MixinTitleScreen"
   ],
   "mixins": [
   ],

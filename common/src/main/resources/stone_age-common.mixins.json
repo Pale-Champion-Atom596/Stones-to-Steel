@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.atom596.stone_age.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "AbstractBlockAccessor",
+    "AbstractBlockStateAccessor",
+    "DiggerItemAccessor",
+    "MixinTitleScreen"
+  ],
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

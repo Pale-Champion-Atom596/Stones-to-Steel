@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "stone_age",
   "version": "${version}",
-  "name": "Example Mod",
+  "name": "Stones to Steel [Fabric]",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "Atom596"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Pale-Champion-Atom596/Stones-to-Steel"
   },
   "license": "Insert License Here",
-  "icon": "assets/examplemod/icon.png",
+  "icon": "assets/stone_age/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.examplemod.fabric.ExampleModFabric"
+      "com.atom596.stone_age.fabric.StoneAgeFabric"
     ]
   },
   "mixins": [
-    "examplemod.mixins.json",
-    "examplemod-common.mixins.json"
+    "stone_age.mixins.json",
+    "stone_age-common.mixins.json"
   ],
   "depends": {
     "fabric": "*",

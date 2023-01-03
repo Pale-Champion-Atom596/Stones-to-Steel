@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[43,)"
 #issueTrackerURL = ""
-license = "Insert License Here"
+license = "MIT License"
 
 [[mods]]
 modId = "stone_age"
@@ -9,7 +9,7 @@ version = "${version}"
 displayName = "Stones to Steel [Forge]"
 authors = "Atom596"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+Stone Age Mod Rewrite
 '''
 #logoFile = ""
 

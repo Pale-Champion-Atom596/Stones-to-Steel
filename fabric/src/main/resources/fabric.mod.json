@@ -3,7 +3,7 @@
   "id": "stone_age",
   "version": "${version}",
   "name": "Stones to Steel [Fabric]",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Stone Age Mod Rewrite",
   "authors": [
     "Atom596"
   ],
@@ -11,8 +11,8 @@
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/Pale-Champion-Atom596/Stones-to-Steel"
   },
-  "license": "Insert License Here",
-  "icon": "assets/stone_age/icon.png",
+  "license": "MIT License",
+  "icon": "pack.png",
   "environment": "*",
   "entrypoints": {
     "main": [

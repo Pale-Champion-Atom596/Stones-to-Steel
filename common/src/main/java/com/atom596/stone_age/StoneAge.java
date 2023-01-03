@@ -10,7 +10,7 @@ import net.minecraft.world.item.ItemStack;
 public class StoneAge {
     public static final String MOD_ID = "stone_age";
     public static final CreativeModeTab STONE_AGE = CreativeTabRegistry.create(new ResourceLocation(MOD_ID, "stone_age"), () ->
-            new ItemStack(ItemCommon.TEST_ITEM));
+            new ItemStack(ItemCommon.TEST_ITEM.get()));
     
     public static void init() {
         ItemCommon.registerItems();

@@ -13,7 +13,7 @@ public class StoneAge {
             new ItemStack(ItemCommon.TEST_ITEM.get()));
     
     public static void init() {
-        ItemCommon.registerItems();
+        ItemCommon.ITEMS.register();
         HarvestBlockHandler.setup();
         
         System.out.println(ExampleExpectPlatform.getConfigDirectory().toAbsolutePath().normalize().toString());

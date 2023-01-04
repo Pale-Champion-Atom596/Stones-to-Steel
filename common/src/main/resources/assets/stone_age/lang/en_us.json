@@ -1,4 +1,6 @@
 {
   "item.stone_age.test_item": "Item of Testing",
-  "item.stone_age.bone_dagger": "Bone Dagger"
+  "item.stone_age.bone_dagger": "Bone Dagger",
+  "item.stone_age.bone_pickaxe": "Bone Pickaxe",
+  "item.stone_age.bone_axe": "Bone Axe"
 }
